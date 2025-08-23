@@ -80,7 +80,7 @@ show_subtext "Updating system packages [5/5]"
 sudo updatedb
 yay -Syu --noconfirm --ignore uwsm
 
-# Reboot
+# Reboot PC
 show_logo laseretch 920
 show_subtext "You're done! So we'll be rebooting now..."
 sleep 2
